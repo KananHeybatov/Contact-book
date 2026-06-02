@@ -17,7 +17,7 @@ A command-line contact manager that stores names, phone numbers and email addres
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/KananHeybatov/contact-book.git
+git clone https://github.com/KananHeybatov/Contact-book.git
 ```
 
 3. Navigate to the directory and run the file:
